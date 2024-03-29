@@ -16,8 +16,6 @@ Welcome to our Mobile-Ecom App repository! This app allows users to engage in va
   - Remove items from the cart if needed.
 - **Wishlist Functionality**:
   - Users can add products to their wishlist for future reference.
-- **Checkout Process**:
-  - Smooth and secure checkout process for purchasing selected items.
 
 ## Installation
 
