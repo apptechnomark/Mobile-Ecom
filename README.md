@@ -58,5 +58,4 @@ flutter run
 
 - **Flutter**: Flutter is Google's UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
 - **Firebase Authentication**: Firebase Authentication provides backend services, easy-to-use SDKs, and ready-made UI libraries to authenticate users to your app.
-- _You can add other technologies or libraries you've used in your project here._
 
